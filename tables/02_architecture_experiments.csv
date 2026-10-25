@@ -1,0 +1,5 @@
+experiment,hidden_neurons,learning_rate,epochs,final_training_error,test_accuracy
+Initial,5,0.3,3000,24.816795,0.717391
+Change 1,10,0.3,3000,15.847334,0.619565
+Change 2,8,0.5,3000,18.575663,0.706522
+Change 3,10,0.2,5000,16.490072,0.619565
